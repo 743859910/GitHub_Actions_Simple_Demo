@@ -8,7 +8,7 @@
 
 它可以让我们在`特定的事件`（如`push` 、`pull request` 事件等）或`条件发生`（如特定时间执行等）时执行自定义的工作流程。
 
-本文将通过从 `0-1` 的方式带你部署一个自己的自动化工作流。（这是我的[Demo仓库](https://github.com/wlc743859910/GitHub_Actions_Simple_Demo)，你可以作为参考）
+本文将通过从 `0-1` 的方式带你部署一个自己的自动化工作流。（这是我的[Demo仓库](https://github.com/743859910/GitHub_Actions_Simple_Demo)，你可以作为参考）
 
 ---
 
@@ -257,23 +257,23 @@ jobs:
 ---
 
 <p align="center">
-  <img src="https://raw.gitmirror.com/wlc743859910/GitHub_Actions_Simple_Demo/master/img/1.webp">
+  <img src="https://raw.gitmirror.com/743859910/GitHub_Actions_Simple_Demo/master/img/1.webp">
 </p>
 
 <p align="center">
-  <img src="https://raw.gitmirror.com/wlc743859910/GitHub_Actions_Simple_Demo/master/img/2.webp">
+  <img src="https://raw.gitmirror.com/743859910/GitHub_Actions_Simple_Demo/master/img/2.webp">
 </p>
 
 <p align="center">
-  <img src="https://raw.gitmirror.com/wlc743859910/GitHub_Actions_Simple_Demo/master/img/3.webp">
+  <img src="https://raw.gitmirror.com/743859910/GitHub_Actions_Simple_Demo/master/img/3.webp">
 </p>
 
 <p align="center">
-  <img src="https://raw.gitmirror.com/wlc743859910/GitHub_Actions_Simple_Demo/master/img/4.webp">
+  <img src="https://raw.gitmirror.com/743859910/GitHub_Actions_Simple_Demo/master/img/4.webp">
 </p>
 
 <p align="center">
-  <img src="https://raw.gitmirror.com/wlc743859910/GitHub_Actions_Simple_Demo/master/img/5.webp">
+  <img src="https://raw.gitmirror.com/743859910/GitHub_Actions_Simple_Demo/master/img/5.webp">
 </p>
 
 ---
@@ -292,6 +292,6 @@ jobs:
 
 MIT License
 
-Copyright © 2008-2024 Powered by wlc743859910. Inc. All Rights Reserved. 我只是你的过客工作室. 版权所有
+Copyright © 2008-2024 Powered by 743859910. Inc. All Rights Reserved. 我只是你的过客工作室. 版权所有
 
 ---
